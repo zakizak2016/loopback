@@ -1,0 +1,4 @@
+$ npm install -g strongloop
+$ slc loopback
+$ slc start
+$ node .
